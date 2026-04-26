@@ -1,0 +1,16 @@
+{
+  "lucas": {
+    "salt": "4531a221f3f183e83ce41c6d4021a3f9",
+    "iv_totp": "4f3c9b395a2a768f821e24ea",
+    "totp_cifrado": "0f98eed3622a7f9623e481d2d38a11db1e64a3121165bc2526ff2d24c5050264dc0c987deeb33a85acfe74398374ba56",
+    "iv_sessao": "cc9e8d41e620096821c49ded",
+    "chave_sessao_cifrada": "b7438070ebce833aef99af7cf646ea85a4552363f96afadca7dc428d6a2ec9f7dbd4c7317f2bad28b3fd2d9971dc7093eaa6d020af57c8a1046f0421c853ffe40ef475ce00db776febe8ea2c7b443de5"
+  },
+  "carol": {
+    "salt": "6663effd09219cf035cc7d35ab06d46e",
+    "iv_totp": "d4c5628c2f75f6b060e7bf7d",
+    "totp_cifrado": "7b8d9cca7ed62b38be5f42b4f95f650f355f12ba5f8fe64f1d21589efd45f66b612d722f3734d1d99a8c5851e99436ff",
+    "iv_sessao": "3cb567cfaf0d9847f1d317c2",
+    "chave_sessao_cifrada": "71c53240838cacefd486a4fb5cc6c996b22b0879f76503bd90ee89bd7edcff3688ccdfbb9100d61c70e033e2e061afb9862c1d7e66d27a4ea8b9b95a60bbce8b4d3173d16923aa7802eb9704943aac3f"
+  }
+}
